@@ -1,4 +1,4 @@
-- pipeline: qobyrklfgo
+- pipeline: Qobyrklfgo
   refs:
   - refs/heads/master
   on: CLICK
